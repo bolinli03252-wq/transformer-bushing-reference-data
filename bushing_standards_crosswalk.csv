@@ -1,0 +1,12 @@
+standard,what_it_covers,range,where_used,what_it_fixes_for_a_buyer,public_source
+IEC 60137,Insulated bushings for alternating voltages above 1000 V: general requirements and tests,above 1 kV,International,Test clauses in tenders; routine and type tests,
+EN 50180,Bushings above 1 kV up to 52 kV and from 250 A to 3.15 kA for liquid filled transformers,above 1 kV to 52 kV; 250 A to 3.15 kA,"Europe; IEC/EN specifications in Türkiye, Middle East, Africa",HV bushing dimension sheets per Um and current,
+EN 50386,Bushings up to 1 kV and from 250 A to 5 kA for liquid filled transformers,up to 1 kV; 250 A to 5 kA,Europe; IEC/EN specifications,LV bushing dimensions,
+DIN 42531,"Outdoor porcelain transformer bushings, dimension sheet",12 to 36 kV; 250 to 1000 A,Germany; existing cover drawings in Asia and Latin America,HV flange and stud dimensions on older designs,
+DIN 42530,"LV transformer bushings, dimension series",up to 1 kV,Germany; existing drawings,LV terminals and bushings on older designs,
+"IEC TS 60815-1, -2",Selection and dimensioning of high-voltage insulators for polluted conditions,not voltage-specific,International,Site pollution severity classes a to e and RUSCD,
+IEEE 386-2025,Shielded separable insulated connectors for classes 15 kV through 35 kV,15 to 35 kV classes; 900 A or less,United States,Bushing wells and inserts on dead-front pad-mounted transformers,https://standards.ieee.org/ieee/386/7573/
+IEEE C57.12.20-2023,Overhead-type distribution transformers,see standard,United States,HV bushing positions and LV terminals on overhead units,https://standards.ieee.org/ieee/C57.12.20/7511/
+IEEE C57.12.34-2022,Three-phase pad-mounted distribution transformers,see standard,United States,Dead-front and live-front interfaces on three-phase pad-mounted units,https://standards.ieee.org/ieee/C57.12.34/6863/
+IEEE C57.12.38,Single-phase pad-mounted distribution transformers,see standard,United States,Bushing arrangement on single-phase pad-mounted units,
+IEEE C57.19.00 / C57.19.01,General requirements and test procedure for power apparatus bushings; performance characteristics and dimensions for outdoor apparatus bushings,see standard,United States,Apparatus bushings,https://standards.ieee.org/ieee/C57.19.00/

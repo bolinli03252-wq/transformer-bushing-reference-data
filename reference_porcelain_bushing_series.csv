@@ -1,0 +1,10 @@
+Um_kV,rated_current_A,stud_thread,sheds,creepage_reference_mm,approx_weight_kg,max_class_met_IEC_60815_1986
+12,250,M12,2,295,4.6,Medium
+12,630,M20,2,295,7.6,Medium
+12,1000,M30x2,2,295,15.7,Medium
+24,250,M12,3,445,6.3,Light
+24,630,M20,3,445,9.5,Light
+24,1000,M30x2,3,445,18.6,Light
+36,250,M12,4,600-635,7.6,Light
+36,630,M20,4,600-635,12.6,Light
+36,1000,M30x2,4,600-635,22.3,Light

@@ -1,0 +1,10 @@
+scale,class,specific_creepage_mm_per_kV,voltage_basis
+IEC 60815:1986,Light,16,phase-to-phase (Um)
+IEC 60815:1986,Medium,20,phase-to-phase (Um)
+IEC 60815:1986,Heavy,25,phase-to-phase (Um)
+IEC 60815:1986,Very heavy,31,phase-to-phase (Um)
+IEC TS 60815-1,a Very light,22.0,phase-to-earth (Um/sqrt 3)
+IEC TS 60815-1,b Light,27.8,phase-to-earth (Um/sqrt 3)
+IEC TS 60815-1,c Medium,34.7,phase-to-earth (Um/sqrt 3)
+IEC TS 60815-1,d Heavy,43.3,phase-to-earth (Um/sqrt 3)
+IEC TS 60815-1,e Very heavy,53.7,phase-to-earth (Um/sqrt 3)
